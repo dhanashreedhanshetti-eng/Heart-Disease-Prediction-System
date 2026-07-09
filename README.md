@@ -92,7 +92,7 @@ The dataset contains patient information including:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction-System.git
+git clone https://github.com/dhanashreedhanshetti/Heart-Disease-Prediction-System.git
 ```
 
 Move into the project folder

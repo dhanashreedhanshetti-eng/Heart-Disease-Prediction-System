@@ -1,5 +1,10 @@
 # ❤️ Heart Disease Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A Machine Learning web application that predicts the likelihood of heart disease using patient health parameters. This project was developed as part of the **CodeAlpha Machine Learning Internship**.
 
 ---
